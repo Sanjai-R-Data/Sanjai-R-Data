@@ -17,45 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Programming  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### ⚙️ Data Engineering  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" /> ETL | Pipelines
-</p>
-
-### ⚡ Big Data  
-<p>
-  <img src="https://skillicons.dev/icons?i=spark,hadoop" />
-</p>
-
-### ☁️ Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
-</p>
-
-### 📊 Analytics  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" /> Pandas | NumPy  
-</p>
-
-### 🧰 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
 ## 🔥 GitHub Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjai-R-Data&theme=tokyonight&hide_border=true)  
@@ -64,7 +25,7 @@
 
 ## 🌐 Connect with Me  
 
-- 💼 LinkedIn: linkedin.com/in/sanjai-r-0a4348381
+- 💼 LinkedIn: www.linkedin.com/in/sanjai-r-data
 - 📧 Email: sanjairavi0308@gmail.com
 
 ---
