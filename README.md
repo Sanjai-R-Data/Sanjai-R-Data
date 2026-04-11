@@ -70,10 +70,11 @@
 ---
 
 ## 📈 GitHub Stats  
+## 📈 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjai-R-Data&show_icons=true&theme=tokyonight&hide_border=true)  
+![Sanjai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjai-R-Data&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-R-Data&layout=compact&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-R-Data&layout=compact&theme=tokyonight&hide_border=true) 
 
 ---
 
