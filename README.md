@@ -15,11 +15,11 @@
 - ☁️ Exploring Cloud & Big Data technologies  
 - 🎯 Goal: Data Engineer at top tech companies  
 
----
+--- 
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjai-R-Data&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjai-R-Data)](https://git.io/streak-stats)
 
 ---
 
