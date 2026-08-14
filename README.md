@@ -29,7 +29,9 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### 🗄️ Databases & Data
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,numpy)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
 
 ### 🧰 Development & IDEs
 
