@@ -40,7 +40,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 - 📧 Email: sanjairavi0308@gmail.com
 
 ---
-##🌱 My Journey
+## 🌱 My Journey
 
 I'm still at the beginning of my journey, and this profile will evolve as I learn, build, and experiment with new technologies.
 
