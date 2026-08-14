@@ -21,6 +21,19 @@ I believe in **learning by building** — every project, problem solved, and exp
 - 🌐 Open Source & Collaborative Development
 
 ---
+### 💻 Programming
+`Python` `C` `C++` `Java` `SQL`
+
+### 📊 Data
+`Pandas` `NumPy` `MySQL` `PostgreSQL`
+
+### 🧰 Tools
+`Git` `GitHub` `VS Code` `Linux`
+
+### 🔭 Exploring
+`Docker` `Apache Spark` `Apache Airflow` `Cloud` `Machine Learning` `Generative AI`
+
+---
 ## 🌐 Connect with Me  
 
 - 💼 LinkedIn: www.linkedin.com/in/sanjai-r-data
