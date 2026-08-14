@@ -21,17 +21,35 @@ I believe in **learning by building** — every project, problem solved, and exp
 - 🌐 Open Source & Collaborative Development
 
 ---
-### 💻 Programming
-`Python` `C` `C++` `Java` `SQL`
+## 🧠 My Skills
 
-### 📊 Data
-`Pandas` `NumPy` `MySQL` `PostgreSQL`
+### 🐍 Programming
 
-### 🧰 Tools
-`Git` `GitHub` `VS Code` `Linux`
+[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 
-### 🔭 Exploring
-`Docker` `Apache Spark` `Apache Airflow` `Cloud` `Machine Learning` `Generative AI`
+### 🗄️ Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### 📊 Data & Scientific Computing
+
+[![My Skills](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+
+### 🧰 Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+
+### 🐧 Operating System
+
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+### 🌐 Version Control
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### ☁️ Environment
+
+[![My Skills](https://skillicons.dev/icons?i=googlecolab)](https://skillicons.dev)
 
 ---
 ## 🌐 Connect with Me  
