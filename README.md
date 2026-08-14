@@ -40,8 +40,13 @@ I believe in **learning by building** — every project, problem solved, and exp
 - 📧 Email: sanjairavi0308@gmail.com
 
 ---
+##🌱 My Journey
 
-✨ *"Transforming data into decisions, one pipeline at a time."*  
+I'm still at the beginning of my journey, and this profile will evolve as I learn, build, and experiment with new technologies.
+
+Every repository here represents something I've learned or built along the way.
+
+Learning today. Building tomorrow. Creating with AI and data. 🚀
 
 <!--
 **Sanjai-R-Data/Sanjai-R-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
