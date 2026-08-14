@@ -33,7 +33,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### 🧰 Development & IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,googlecolab)](https://skillicons.dev)
+[![Colab Skill Icon](https://skillicons.dev)](https://colab.research.google.com/)
 
 ### 🐧 OS & Version Control
 
