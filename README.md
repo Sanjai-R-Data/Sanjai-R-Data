@@ -21,7 +21,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 - 🌐 Open Source & Collaborative Development
 
 ---
-## 🧠 My Skills
+## 🧠 Skills I'm Learning..
 
 ### 💻 Programming
 
