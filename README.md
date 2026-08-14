@@ -33,7 +33,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### 🗄️ Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48"/>
 
 ### 🛠️ Development Environments
 
