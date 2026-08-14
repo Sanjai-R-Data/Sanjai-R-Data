@@ -1,19 +1,26 @@
-#
-Hi, I'm Sanjai 👋
-AI & Data Engineering Enthusiast 🤖📊
+# 👋 Hi, I'm Sanjai
 
-I'm a 2nd-year B.Tech Artificial Intelligence & Data Science student passionate about understanding how AI and data work together to build intelligent systems.
+### 🤖 AI & Data Engineering Enthusiast | B.Tech AI & Data Science
 
-I'm currently exploring Artificial Intelligence, Data Engineering, Data Analytics, and Machine Learning, while strengthening my foundations in programming, databases, and software development.
+I'm a **2nd-year Artificial Intelligence & Data Science student** interested in the intersection of **Artificial Intelligence, Data Engineering, and Data Analytics**.
 
-I enjoy learning by building projects, solving problems, experimenting with new technologies, and contributing to real-world solutions. 🚀
+I'm currently building my foundations in programming, databases, data processing, and software development while exploring how AI can be integrated with data-driven systems.
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjai-R-Data)](https://git.io/streak-stats)
+I believe in **learning by building** — every project, problem solved, and experiment is another step forward. 🚀
 
 ---
+## 🧠 What I'm Interested In
 
+- 🤖 Artificial Intelligence & Generative AI
+- 📊 Data Engineering & Data Analytics
+- 🗄️ Databases & Data Management
+- 🧩 Machine Learning
+- 🔄 Data Pipelines & ETL
+- 💡 AI-powered Data Solutions
+- 🐧 Linux & Developer Tools
+- 🌐 Open Source & Collaborative Development
+
+---
 ## 🌐 Connect with Me  
 
 - 💼 LinkedIn: www.linkedin.com/in/sanjai-r-data
