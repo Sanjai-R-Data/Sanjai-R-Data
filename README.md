@@ -1,21 +1,23 @@
-# 👋 Hey, I'm Sanjai 
+Hi, I'm Sanjai 👋
+AI & Data Engineering Enthusiast 🤖📊
 
-💡 Aspiring Data Engineer | Data Analyst | Visualization Enthusiast  
-🚀 Building scalable data pipelines & real-world projects
-📊 Turning raw data into meaningful insights  
+I'm a 2nd-year B.Tech Artificial Intelligence & Data Science student passionate about understanding how AI and data work together to build intelligent systems.
 
+I'm currently exploring Artificial Intelligence, Data Engineering, Data Analytics, and Machine Learning, while strengthening my foundations in programming, databases, and software development.
 
----
+I enjoy learning by building projects, solving problems, experimenting with new technologies, and contributing to real-world solutions. 🚀
 
-## 🧠 About Me  
-
-- 🎓 AI & Data Science Student (India)  
-- 💻 Currently learning: SQL, Python, Data Engineering  
-- 📊 Interested in Analytics & Visualization  
-- ☁️ Exploring Cloud & Big Data technologies  
-- 🎯 Goal: Data Engineer at top tech companies  
-
---- 
+🧠 What I'm Learning
+🤖 Artificial Intelligence & Generative AI
+📊 Data Engineering & Data Analytics
+🐍 Python
+🗄️ SQL & Databases
+📈 Data Processing & Analysis
+🧩 Data Structures & Algorithms
+🌐 Git & GitHub
+🐧 Linux
+☁️ Cloud & Big Data Technologies
+🧠 Machine Learning Fundamentals
 
 ## 🔥 GitHub Streak
 
