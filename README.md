@@ -23,23 +23,33 @@ I believe in **learning by building** — every project, problem solved, and exp
 ---
 ## 🧠 Skills I'm Learning..
 
-### 💻 Programming
+## 🧠 My Skills
+
+### 💻 Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 
-### 🗄️ Databases & Data
+### 📊 Data & Scientific Computing
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
 
-### 🧰 Development & IDEs
+### 🗄️ Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Development Environments
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
 
-### 🐧 OS & Version Control
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="48" height="48"/>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
+### 🐧 Operating System
+
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+### 🔀 Version Control
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 ## 🌐 Connect with Me  
