@@ -48,9 +48,18 @@ I believe in **learning by building** — every project, problem solved, and exp
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjai-R-Data&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-R-Data&layout=compact&theme=transparent" height="180"/>
+</p>
+
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjai-R-Data)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjai-R-Data&theme=transparent" />
+</p>
 ---
 ## 🌐 Connect with Me  
 
