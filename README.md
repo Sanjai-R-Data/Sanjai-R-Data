@@ -37,7 +37,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### 🤖 AI & Local LLM Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" alt="Ollama" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/npm/@dev.icons/[email protected]/export-files/icons/ollama.svg" alt="Ollama" width="48" height="48"/>
 
 ### 🛠️ Development Environments
 
