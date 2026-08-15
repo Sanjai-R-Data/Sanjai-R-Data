@@ -50,7 +50,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 ---
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sanjai-R-Data)](https://git.io/streak-stats)
 ---
 ## 🌐 Connect with Me  
 
