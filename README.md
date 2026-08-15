@@ -48,6 +48,10 @@ I believe in **learning by building** — every project, problem solved, and exp
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+---
 ## 🌐 Connect with Me  
 
 - 💼 LinkedIn: www.linkedin.com/in/sanjai-r-data
