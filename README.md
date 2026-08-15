@@ -35,6 +35,10 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48"/>
 
+### ✨ LLM
+
+[![My Skills](https://skillicons.dev/icons?i=ollama)](https://skillicons.dev)
+
 ### 🛠️ Development Environments
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" width="48" height="48"/>
