@@ -37,7 +37,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### 🤖 AI & Local LLM Tools
 
-![Ollama](https://shields.io)
+[![My Skills](https://shields.io)](https://ollama.com)
 
 ### 🛠️ Development Environments
 
