@@ -35,9 +35,9 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48"/>
 
-### ✨ LLM
+### 🤖 AI & Local LLM Tools
 
-https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" alt="Ollama" width="48" height="48"/>
 
 ### 🛠️ Development Environments
 
