@@ -37,7 +37,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 
 ### ✨ LLM
 
-[![My Skills](https://skillicons.dev/icons?i=ollama)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" alt="Ollama" width="48" height="48"/>
 
 ### 🛠️ Development Environments
 
