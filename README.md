@@ -30,6 +30,7 @@ I believe in **learning by building** — every project, problem solved, and exp
 ### 📊 Data & Scientific Computing
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
 
 ### 🗄️ Databases
 
