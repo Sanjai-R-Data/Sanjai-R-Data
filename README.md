@@ -8,12 +8,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Sanjai-R-Data">
-<img src="https://komarev.com/ghpvc/?username=Sanjai-R-Data&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/Sanjai-R-Data?tab=followers">
-<img src="https://img.shields.io/github/followers/Sanjai-R-Data?style=for-the-badge&color=6366f1&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
+
 
 </div>
 
