@@ -1,12 +1,12 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=Sanjai%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=Sanjai%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sanjai R - AI/ML Engineer"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Generative+AI;Exploring+AI+Agents+and+LLMs;Learning+by+Building;Turning+Ideas+into+Intelligent+Systems" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+%7C+GenAI+%7C+AI+Agents;Turning+Data+into+Intelligence;Learning+by+Building" alt="Animated typing introduction"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Sanjai-R-Data">
 <img src="https://komarev.com/ghpvc/?username=Sanjai-R-Data&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -21,44 +21,54 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Sanjai:
-    def __init__(self):
-        self.role = "AI & Data Science Undergraduate"
-        self.goal = "AI/ML Engineer"
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "AI Agents & LLMs",
-            "Data Analytics",
-            "Intelligent Systems"
-        ]
-        self.learning = [
-            "Python & Data Science",
-            "Machine Learning",
-            "SQL & Data Analysis",
-            "FastAPI & Backend Development",
-            "AI Application Development"
-        ]
+I'm a B.Tech Artificial Intelligence and Data Science undergraduate passionate about understanding how intelligent systems work and how AI can solve real-world problems.
 
-    def motto(self):
-        return "Learn. Build. Experiment. Repeat."
+My goal is to become an **AI/ML Engineer** capable of developing intelligent applications, working with data, and taking machine learning models beyond experimentation into practical use.
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-me = Sanjai()
-```
+### 🧠 AI & Machine Learning
 
-Hey there! 👋 I'm an Artificial Intelligence and Data Science undergraduate passionate about understanding how intelligent systems work and building the skills to create them.
+Exploring machine learning algorithms, model development, evaluation, and data-driven problem-solving.
 
-I enjoy exploring the intersection of **Machine Learning, Generative AI, data, and software engineering**. My goal is to grow into an AI/ML Engineer who can develop practical, reliable, and deployable AI solutions.
+</td>
+<td width="50%" valign="top">
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
-- 🧠 Exploring Machine Learning, GenAI, LLMs, and AI agents
-- 🐍 Strengthening my Python and data science skills
-- 📊 Learning through data analysis, experimentation, and model development
-- ⚙️ Exploring SQL, FastAPI, and backend development
-- 🌱 Constantly learning, experimenting, and improving
-- 🎯 Long-term goal: Build intelligent systems that solve real-world problems
+### 🤖 Generative AI
+
+Learning about large language models, AI agents, and building useful AI-powered applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+
+Working with Python, data analysis, visualization, and SQL to extract meaningful insights.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+Strengthening programming fundamentals and learning to build applications with APIs and backend technologies.
+
+</td>
+</tr>
+</table>
+
+**Currently focused on**
+
+- 🐍 Strengthening Python and data science fundamentals
+- 📈 Learning machine learning and model evaluation
+- 🗄️ Practicing SQL and data analysis
+- 🧩 Exploring GenAI, LLMs, and AI agents
+- 🚀 Developing practical applications and improving deployment skills
+
+> *Learn deeply. Build consistently. Improve relentlessly.*
 
 ---
 
@@ -66,64 +76,73 @@ I enjoy exploring the intersection of **Machine Learning, Generative AI, data, a
 
 <div align="center">
 
-### Languages & Databases
+### 01 — Programming Languages & Databases
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,postgres&theme=dark" alt="Programming languages and databases"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,postgres&theme=dark&perline=5&size=72" alt="Python, C, Java, MySQL and PostgreSQL"/>
 
-### Data Science & Machine Learning
+<br/><br/>
+
+### 02 — Data Science & Machine Learning
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
-### AI & Generative AI
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+### 03 — AI & Generative AI
+
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/LLMs-0F766E?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Large language models"/>
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 
-### Tools & Development
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,fastapi&theme=dark" alt="Development tools"/>
+### 04 — Backend & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,linux&theme=dark&perline=5&size=72" alt="FastAPI, Git, GitHub, VS Code and Linux"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjai-R-Data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-R-Data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<a href="https://github.com/Sanjai-R-Data">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjai-R-Data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Sanjai-R-Data">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjai-R-Data&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Sanjai-R-Data&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<a href="https://github.com/Sanjai-R-Data">
+<img width="75%" src="https://streak-stats.demolab.com?user=Sanjai-R-Data&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjai-R-Data&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🌌 Beyond the Code
+## 🌌 Beyond the Terminal
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Animated coding GIF"/>
 
-**Curious mind. Consistent learner. Future AI engineer.**
+**Curiosity drives the code. Consistency builds the engineer.**
 
 </div>
 
-Outside the world of code, I enjoy exploring space, science, history, books, cinema, anime, and music.
+When I'm away from the editor, I enjoy exploring science, space, technology, books, cinema, anime, and music.
 
-I'm fascinated by understanding how things work, from intelligent algorithms to the mysteries of the universe. 🌠
+I'm fascinated by understanding not just *how* things work, but *why* they work.
 
 ---
 
@@ -142,6 +161,6 @@ I'm fascinated by understanding how things work, from intelligent algorithms to 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
-*“Great things are built one line of code at a time.”*
+*“The best way to predict the future is to build something that makes it possible.”*
 
 </div>
